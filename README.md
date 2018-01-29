@@ -22,3 +22,4 @@ Work with a partner to edit a project and manage your changes with git.
 4. Tyler added a paragraph to index.html about something he likes.
 5. Bryan created a new directory called pants and moved the new.html file into it.
 6. Tyler created a new CSS file and added a link to it in new.html.
+7. Bryan removed the new.html file
