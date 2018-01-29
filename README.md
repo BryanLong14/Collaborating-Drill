@@ -15,4 +15,4 @@ Be sure to commit it before moving on to the tasks.
 ### Git Workflow: Centralized Workflow
 ### Partner: Tyler Mustard and Bryan Long
 
-1. 
+1. Bryan edited the index.HTML file and added a recipe that you he liked.
