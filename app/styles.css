@@ -10,6 +10,14 @@ h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
   color: orange;
+  background-color: black;
+}
+
+p {
+  text-align: center;
+  font-size: 15;
+  color:red;
+  background-color: blue;
 }
 
 nav {

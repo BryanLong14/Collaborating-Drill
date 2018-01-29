@@ -18,3 +18,4 @@ Work with a partner to edit a project and manage your changes with git.
 
 1. Bryan edited the index.HTML file and added a recipe that you he liked.
 2. Tyler created a new HTML file and added a link to it in index.html
+3. Bryan edited 5 CSS Properties
