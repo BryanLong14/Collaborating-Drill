@@ -25,3 +25,4 @@ Work with a partner to edit a project and manage your changes with git.
 7. Bryan removed the new.html file.
 8. Tyler created an array of objects, each with a name and age.
 9. Bryan created an array of numbers in the Javascript file
+10. Tyler created an array of numbers, and wrote a function that returned an array of the even numbers.
