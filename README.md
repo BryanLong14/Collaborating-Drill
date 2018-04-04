@@ -24,4 +24,9 @@ Work with a partner to edit a project and manage your changes with git.
 6. Tyler created a new CSS file and added a link to it in new.html.
 7. Bryan removed the new.html file.
 8. Tyler created an array of objects, each with a name and age.
+<<<<<<< HEAD
 9. Bryan created an array of numbers in the Javascript file and  `[4, 9, 0]`
+=======
+9. Bryan created an array of numbers in the Javascript file
+10. Tyler created an array of numbers, and wrote a function that returned an array of the even numbers.
+>>>>>>> b551d14be4a087b68d719a3c9dcaab9ac9390f3e
