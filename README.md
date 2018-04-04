@@ -16,12 +16,12 @@ Work with a partner to edit a project and manage your changes with git.
 
 ### Partner: Tyler Mustard and Bryan Long
 
-1. Bryan edited the index.HTML file and added a recipe that you he liked.
+1. Bryan edited the index.HTML file and added a recipe that you he liked about cheese.
 2. Tyler created a new HTML file and added a link to it in index.html
-3. Bryan edited 5 CSS Properties.
+3. Bryan edited 5 CSS Properties including color and size.
 4. Tyler added a paragraph to index.html about something he likes.
 5. Bryan created a new directory called pants and moved the new.html file into it.
 6. Tyler created a new CSS file and added a link to it in new.html.
 7. Bryan removed the new.html file.
 8. Tyler created an array of objects, each with a name and age.
-9. Bryan created an array of numbers in the Javascript file
+9. Bryan created an array of numbers in the Javascript file and  `[4, 9, 0]`
